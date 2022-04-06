@@ -1,0 +1,70 @@
+<mxfile modified="2022-04-04T00:45:49.876Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="xpVYau6yHaufRrDFYMsB" version="15.7.4" type="github">
+  <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
+    <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="14" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="110" width="760" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="14" vertex="1">
+          <mxGeometry width="23" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-27" value="Chat Bot NLU Model&lt;br&gt;- Data Source: user messages&lt;br&gt;- Serving: Streaming" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=left;" vertex="1" parent="14">
+          <mxGeometry x="280" y="160" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-28" value="DS Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="14">
+          <mxGeometry x="280" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="14">
+          <mxGeometry x="26" y="160" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-30" value="Product Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="14">
+          <mxGeometry x="10" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="14" source="JVSTvZEAdsV8iJWq-nhd-31" target="JVSTvZEAdsV8iJWq-nhd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-31" value="Message DB" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_sql;dashed=1;labelBackgroundColor=none;" vertex="1" parent="14">
+          <mxGeometry x="27" y="250" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="14">
+          <mxGeometry x="26" y="370" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-35" value="Logistic Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="14">
+          <mxGeometry x="76" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-36" value="Address DB" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_sql;dashed=1;labelBackgroundColor=none;" vertex="1" parent="14">
+          <mxGeometry x="26" y="370" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Lab Class 8 Demo" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="40" width="1035" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JVSTvZEAdsV8iJWq-nhd-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.25" y="394.2399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-45" value="Messages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JVSTvZEAdsV8iJWq-nhd-44">
+          <mxGeometry x="-0.2977" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-40" value="Customers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;dashed=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="364" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-49" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JVSTvZEAdsV8iJWq-nhd-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.02;exitY=0.639;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JVSTvZEAdsV8iJWq-nhd-49" target="JVSTvZEAdsV8iJWq-nhd-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
