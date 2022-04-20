@@ -19,9 +19,9 @@ Tópico: Google Cloud Platform
 gcloud config list
 gcloud config list project
 
-glcoud init
+gcloud init
 gcloud components list 
-glcoud components install/update
+gcloud components install/update
 gcloud auth list
 
 ```
